@@ -1,0 +1,30 @@
+{
+  "nav": {
+    "browse": "Browse",
+    "lists": "My Lists",
+    "search": "Search anime..."
+  },
+  "anime": {
+    "episodes": "Episodes",
+    "watchNow": "Watch Now",
+    "addToList": "Add to List",
+    "rating": "Rating",
+    "status": "Status",
+    "genres": "Genres"
+  },
+  "lists": {
+    "createNew": "Create New List",
+    "myLists": "My Lists",
+    "watching": "Watching",
+    "completed": "Completed",
+    "planToWatch": "Plan to Watch",
+    "namePlaceholder": "Enter list name...",
+    "empty": "No anime in this list yet"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "create": "Create",
+    "save": "Save",
+    "delete": "Delete"
+  }
+}
